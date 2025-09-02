@@ -1,0 +1,17 @@
+.body {
+  color: white;
+  font-size: 15px;
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 18px;
+}
+

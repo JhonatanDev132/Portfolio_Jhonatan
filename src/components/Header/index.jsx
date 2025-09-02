@@ -5,7 +5,7 @@ export default function Header() {
     <div className="header">
       <h1 className="header-title">
         Hi! My name is Jhonatan and <br/>
-        I’m a Back End <br/>
+        I’m a Full-Stack <br/>
         Developer
       </h1>
     </div>
