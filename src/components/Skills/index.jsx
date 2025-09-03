@@ -1,11 +1,14 @@
 import "./styles.css"
 import SkillsList from "./skillsList"
+import { useTranslation } from "react-i18next"
 
 export default function Skills() {
   
+  const { t } = useTranslation()
+
   return (
     <section className="skills">
-      <h3>Skills</h3>
+      <h3>{t("Skills")}</h3>
       <div className="skills-container">
         <SkillsList
           title="Front-End"
@@ -27,7 +30,7 @@ export default function Skills() {
           skills={[
             "Git", "GitHub", "FastAPI", "Postman", "Insomnia", "Figma", "XML",
             "Styled-components", "Bootstrap", "Tailwind CSS", "Jira", "Scrum",
-            "Agile Methodologies", "RESTful APIs"
+            "Agile", "RESTful APIs"
           ]}
         />
 

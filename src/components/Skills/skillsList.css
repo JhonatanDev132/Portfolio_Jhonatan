@@ -1,0 +1,9 @@
+.show-more-btn {
+  background-color: transparent;
+  color: #7a7a7a;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}

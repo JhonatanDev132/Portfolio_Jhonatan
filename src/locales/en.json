@@ -1,0 +1,11 @@
+{
+  "greeting": "Hi! My name is Jhonatan and \nI’m a Full-Stack \nDeveloper",
+  "about": "About Me",
+  "text-about": "I am a passionate Full-Stack Developer with experience in building web applications using modern technologies. I enjoy solving complex problems and creating efficient solutions that enhance user experiences.",
+  "Skills": "Skills",
+  "show-more": "Show More...",
+  "show-less": "Show Less...",
+  "projects": "Projects",
+  "lamborghini": "It’s been a while since I worked on that project. It was a recreation inspired by one of my favorite car brands. At the time, I learned a lot of new things, but looking back, I know I could do it much better today.",
+  "petlove": "This was an academic project that I worked on with my teacher and classmates. It was our first introduction to React, and we built a blog about PetCare, which includes tips on how to take care of your pet."
+}

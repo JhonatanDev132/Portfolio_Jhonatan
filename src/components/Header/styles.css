@@ -9,3 +9,18 @@
   padding: 3rem;
   padding-top: 5rem;
 }
+
+.lgn-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.language-switcher {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  display: flex;
+  flex-direction: row;
+}
