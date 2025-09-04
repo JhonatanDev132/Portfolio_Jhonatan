@@ -1,6 +1,7 @@
 import "./styles.css"
 import Skills from "../Skills"
 import Projects from "../Projects"
+
 import { useTranslation } from "react-i18next"
 
 export default function Body() {
@@ -15,6 +16,7 @@ export default function Body() {
       </p>
       <Skills />
       <Projects />
+      
     </div>
   )
 }

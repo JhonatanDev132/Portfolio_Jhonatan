@@ -1,4 +1,5 @@
 import { useTranslation } from "react-i18next"
+import "./styles.css"
 
 export default function Projects() {
 
@@ -6,7 +7,7 @@ export default function Projects() {
 
   return (
     <div className="projects">
-      <h2>Projects</h2>
+      <h2>{t("projects")}</h2>
       <div className="project-card">
         <div className="image"></div>
         <h3>Lamborghini</h3>
